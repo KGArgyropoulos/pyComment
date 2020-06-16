@@ -1,4 +1,3 @@
-#######TASKS#######
-## 1. The path should be absolute for linux as well
-## 2. Error handling messages
-## 3. Test cases
+1. Error messages
+2. More graphics
+3. Exe file

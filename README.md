@@ -9,7 +9,5 @@ commentIt.py is Linux compatible\
     - the Path is relevant to the folder where you downloaded the .py file\
 commentWinIt.py is Windows compatible\
     - execution command: $python commentWinIt.py\
-    - the Path is absolute\
 commentWinIt.exe is the Windows executable\
     - double tap it to run!\
-    - the Path is absolute
