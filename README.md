@@ -20,4 +20,6 @@ FYI: This is actually the way you comment C programming language!
 - commentWinIt.py is Windows compatible
     * execution command: $python commentWinIt.py
 - commentWinIt.exe is the Windows executable
+    * You will find it in https://github.com/KGArgyropoulos/pyComment/tree/master/commentWinIt/dist
+    * Or! If you've already cloned this repo, the .exe will appear inside commentWinIt/dist/ folder.
     * double tap it to run!
