@@ -9,14 +9,14 @@ Just open the source file (.py) \
 Find and modify the line [temp = "#" + c] \
 Change "#" with whatever you want to append in from of the line. \
 E.g.: temp = "//" + c \
-FYI: This is actually the way you comment C programming language! \
+FYI: This is actually the way you comment C programming language!
 
 Windows version has Tkinter graphics
 
 **commentIt.py is Linux compatible** \
 - execution command: $python3 commentIt.py \
-- the Path is relevant to the folder where you downloaded the .py file \
+- the Path is relevant to the folder where you downloaded the .py file
 **commentWinIt.py is Windows compatible** \
-- execution command: $python commentWinIt.py \
+- execution command: $python commentWinIt.py
 **commentWinIt.exe is the Windows executable** \
 - double tap it to run!
