@@ -7,8 +7,9 @@ You can also use this script if you just want to add a hashtag ("#") in front of
 With a slight code modification you can append anything you want in front of specific lines!\
 Just open the source file (.py) \
 Find and modify the line [temp = "#" + c] \
-Change "#" with whatever you want to append in from of the line. \
+Change "#" with whatever you want to append in front of the line. \
 E.g.: temp = "//" + c \
+Save your changes and run it as explained below! \
 FYI: This is actually the way you comment C programming language!
 
 **_NOTE:_**  Windows version has Tkinter graphics
