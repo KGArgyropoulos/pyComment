@@ -3,8 +3,13 @@ Type down the lines you want to comment, comma (',') separated and with  '-' whe
 (for example: 1,3,9-21,35)\
 This will comment the lines 1,3,9,10,11,12,...20,21,35.\
 You can also use this script if you just want to add a hashtag ("#") in front of some line in your text file.\
-**Note for developers** \
-With slight code modification and you can append anything you want in front of specific lines! You should know how!!
+**Important Note** \
+With a slight code modification you can append anything you want in front of specific lines!\
+Just open the source file (.py) \
+Find and modify the line [temp = "#" + c] \
+Change "#" with whatever you want to append in from of the line. \
+E.g.: temp = "//" + c \
+FYI: This is actually the way you comment C programming language! \
 
 Windows version has Tkinter graphics
 
