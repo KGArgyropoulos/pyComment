@@ -11,7 +11,7 @@ Change "#" with whatever you want to append in from of the line. \
 E.g.: temp = "//" + c \
 FYI: This is actually the way you comment C programming language!
 
-Windows version has Tkinter graphics
+**_NOTE:_**  The note content.Windows version has Tkinter graphics
 
 - commentIt.py is Linux compatible
     * execution command: $python3 commentIt.py
