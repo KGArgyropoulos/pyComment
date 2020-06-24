@@ -9,9 +9,9 @@ With slight code modification and you can append anything you want in front of s
 Windows version has Tkinter graphics
 
 **commentIt.py is Linux compatible** \
-- execution command: $python3 commentIt.py
-- the Path is relevant to the folder where you downloaded the .py file
+- execution command: $python3 commentIt.py \
+- the Path is relevant to the folder where you downloaded the .py file \
 **commentWinIt.py is Windows compatible** \
-- execution command: $python commentWinIt.py
-**commentWinIt.exe is the Windows executable**
+- execution command: $python commentWinIt.py \
+**commentWinIt.exe is the Windows executable** \
 - double tap it to run!
